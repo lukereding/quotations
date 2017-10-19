@@ -1,60 +1,58 @@
 
 # random books:
 
-The way to love anything is to realize that it might be lost. ::: G. K. Chesterton
+# below I denote the category of the quote with three colons in a row
 
-Where we all think alike, no one thinks very much. ::: Walter Lippmann
+The way to love anything is to realize that it might be lost. ::: G. K. Chesterton ::: preferences ::: general
 
-It is easier to resist at the beginning than at the end. ::: Leonardo da Vinci
+Where we all think alike, no one thinks very much. ::: Walter Lippmann ::: general
 
-No worthy problem is ever solved within the plane of its original conception. ::: Einstein
+It is easier to resist at the beginning than at the end. ::: Leonardo da Vinci ::: general
 
-If you set out to write a poem about two dogs fucking, and you write a poem about two dogs fucking, then you’ve written a poem about two dogs fucking. ::: Gerald Stern
+I hear and I forget. I see and I remember. I do and I understand. ::: Confucius ::: general ::: learning ::: communication
 
-Choices depend on tastes, and tastes depend on past experiences. ::: W. M. Gordon, "Tastes, Habits, and Choice" 1967. as quoted in Vanderbilt 2016 "You May Also Like" p 24.
+No worthy problem is ever solved within the plane of its original conception. ::: Einstein ::: general ::: problem_solving
 
-As much as preference influences choice, choices influence preference...We seem to have a preference that we prefer our preferences. ::: Vanderbilt 2016.
+If you set out to write a poem about two dogs fucking, and you write a poem about two dogs fucking, then you’ve written a poem about two dogs fucking. ::: Gerald Stern ::: communication
 
-Liking is learning ::: Vanderbilt 2016.
+Choices depend on tastes, and tastes depend on past experiences. ::: W. M. Gordon, "Tastes, Habits, and Choice" 1967. as quoted in Vanderbilt 2016 "You May Also Like" p 24. ::: preferences
 
-We find only the world we look for ::: Thoreau.
+As much as preference influences choice, choices influence preference...We seem to have a preference that we prefer our preferences. ::: Vanderbilt 2016. ::: preferences
 
-Destroying is intimately connected to creating. ::: Maria Popova.
+Liking is learning ::: Vanderbilt 2016. ::: preferences
 
-Our thoughts and feelings are really just chemical transfers in 2.8 pounds of electrified pate. ::: David Foster Wallace. A history of infinity.
+We find only the world we look for ::: Thoreau. ::: preferences ::: nature
 
-In fact the more fundamental a math concept, the more difficult it usually is to define ::: David Foster Wallace. A history of infinity.
+Destroying is intimately connected to creating. ::: Maria Popova. ::: creativity ::: general
 
-Induction is, logically speaking, foundation less, whereas mathematical truths are built on the granite of axioms and rules of inference. ::: David Foster Wallace. A history of infinity.
+Our thoughts and feelings are really just chemical transfers in 2.8 pounds of electrified pate. ::: David Foster Wallace. A history of infinity. ::: general
 
-The beauty of a good experiment is control ::: Jonah Berger. Invisible influence.
+In fact the more fundamental a math concept, the more difficult it usually is to define ::: David Foster Wallace. A history of infinity. ::: math ::: general
 
-The road not only to better theories but to a better society is paved with linguistic precision. ::: ? possibly quoted in Berged. View of Karl Kraus.
+Induction is, logically speaking, foundation less, whereas mathematical truths are built on the granite of axioms and rules of inference. ::: David Foster Wallace. A history of infinity. ::: math
 
-Opposition is true friendship ::: William Blake
+The beauty of a good experiment is control ::: Jonah Berger. Invisible influence. ::: science
 
-To a worm in horshraddish, the world is harshraddish ::: Yiddish saying
+The road not only to better theories but to a better society is paved with linguistic precision. ::: ? possibly quoted in Berged. View of Karl Kraus. ::: science ::: general
 
-…to this extent it is not open to men to say: Everyone has his own taste. This would be equivalent to saying there is no such thing as taste at all… ::: Kant
+Opposition is true friendship ::: William Blake ::: general
+
+To a worm in horshraddish, the world is harshraddish ::: Yiddish saying ::: general
+
+…to this extent it is not open to men to say: Everyone has his own taste. This would be equivalent to saying there is no such thing as taste at all… ::: Kant ::: preferences
 
 
 
 
-Let me never fall into the vulgar mistake of dreaming that I am persecuted
-whenever I am contradicted. ::: Ralph Waldo Emerson
+Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted. ::: Ralph Waldo Emerson ::: general
 
-I don't wait for moods. You accomplish nothing if you do that. Your mind must
-know it has got to get down to work. ::: Pearl S. Buck
+I don't wait for moods. You accomplish nothing if you do that. Your mind must know it has got to get down to work. ::: Pearl S. Buck
 
-Scientists become method oriented rather than problem oriented. Stop doing
-experiments for a while and think. ::: Platt (1964), quoted in Pigliucci
-(2002:92)
+Scientists become method oriented rather than problem oriented. Stop doingexperiments for a while and think. ::: Platt(1964), quoted in Pigliucci(2002:92) ::: science
 
-Even the most practical man of affairs is usually in the thrall of the ideas of
-some long-dead economist. ::: John Maynard Keynes
+Even the most practical man of affairs is usually in the thrall of the ideas of some long-dead economist. ::: John Maynard Keynes ::: general ::: preferences
 
-Academics fight over resources much more readily than over principles. :::
-https://twitter.com/molpopgen/status/512340805923508224
+Academics fight over resources much more readily than over principles. ::: https://twitter.com/molpopgen/status/512340805923508224 ::: science
 
 Must we geneticists become bacteriologists, physiological chemists and
 physicists, simultaneously with being zoologists and botanists? Let us hope so.
@@ -80,34 +78,25 @@ itself; and of all the various branches of the science of man, or anthropology,
 the history of his natural evolution should excite his highest interest. :::
 Ernst Haeckel (1834–1919), The Evolution of Man (1892), p. 2
 
-The grand aim of all science is to cover the greatest number of empirical facts
-by logical deduction from the smallest number of hypotheses or axioms. :::
-Albert Einstein
+The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms. ::: Albert Einstein ::: science
 
 If your idea of happiness has to do with someone else changing what they say,
 what they do, you are in for a fucking hard ass road. ::: RuPaul
 
-The tendency of modern scientific teaching is to neglect the great books, to lay
-far too much stress upon relatively unimportant modern work, and to present
-masses of detail of doubtful truth and questionable weight in such a way as to
-obscure principles. ::: R.A. Fisher
+The tendency of modern scientific teaching is to neglect the great books, to lay far too much stress upon relatively unimportant modern work, and to present masses of detail of doubtful truth and questionable weight in such a way as to obscure principles. ::: R.A. Fisher ::: science 
 
 Mathematics is not a careful march down a well-cleared highway, but a journey
 into a strange wilderness, where the explorers often get lost. Rigour should be
 a signal to the historian that the maps have been made, and the real explorers
 have gone elsewhere. ::: William S. Anglin
 
-The whole problem with the world is that fools and fanatics are always so certain
-of themselves, and wiser people so full of doubts. ::: Bertrand Russell
+The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. ::: Bertrand Russell ::: science ::: general
 
-He who asks is a fool for five minutes, but he who does not ask remains a fool
-forever. ::: Chinese Proverb
+He who asks is a fool for five minutes, but he who does not ask remains a fool forever. ::: Chinese Proverb ::: general :: learning ::: communication
 
-Never argue with a fool, onlookers may not be able to tell the difference. :::
-Mark Twain
+Never argue with a fool, onlookers may not be able to tell the difference. ::: Mark Twain ::: general
 
-The greatest challenge to any thinker is stating the problem in a way that will
-allow a solution. ::: Bertrand Russell
+The greatest challenge to any thinker is stating the problem in a way that will allow a solution. ::: Bertrand Russell ::: problem_solving ::: science
 
 As a mathematical discipline travels far from its empirical source, or still
 more, if it is a second and third generation only indirectly inspired from
@@ -131,13 +120,12 @@ convinced that this is a necessary condition to conserve the freshness and the
 vitality of the subject, and that this will remain so in the future. ::: John
 von Neumann
 
-An ounce of algebra is worth a ton of verbal argument. ::: J.B.S Haldane
+An ounce of algebra is worth a ton of verbal argument. ::: J.B.S Haldane ::: science
 
 The business of the statistician is to catalyze the scientific learning
 process. ::: George E. P. Box
 
-To do science is to search for repeated patterns, not simply to accumulate the
-facts. :::  Robert MacArthur, 1972
+To do science is to search for repeated patterns, not simply to accumulate the facts. :::  Robert MacArthur, 1972 ::: science
 
 You go to war with the data you have, not the data you wish you had. :::
 Richard McElreath
