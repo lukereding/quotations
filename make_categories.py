@@ -1,14 +1,19 @@
 import os
 import sys
 
-filename = "test.txt"
+if len(sys.argv) != 2 and not os.path.exists('./quotes.txt'):
+    sys.exit("pass a single argument: the path to the quotations file")
+elif os.path.exists('./quotes.txt'):
+    filename = './quotes.txt'
+else:
+    filename = sys.argv[1]
 
-
-# need more testing to test whether the lines and arguments to the
-# functions are correct / as expected
+if not os.path.exists(filename):
+    sys.exit("Can't find {}".format(filename))
 
 ## function to figure out all possible tags in the file
 def find_unique_tags(filename):
+    """Scan the input file and identify all unique categories."""
     # list to store cateogories
     categories = []
     with open(filename) as file:
@@ -26,7 +31,8 @@ def find_unique_tags(filename):
     return(categories)
 
 def write_to_file(quote, author, category):
-    filename = '{}.txt'.format(category)
+    """Write a quote to a specific category file."""
+    filename = os.path.join('./quotes', '{}.txt'.format(category))
     if os.path.isfile(filename):
         file = open(filename, "a+")
     else:
@@ -36,24 +42,23 @@ def write_to_file(quote, author, category):
 
 
 ## creates list where each list is a different tag
-
 categories = find_unique_tags(filename)
 
 # new to make a new subdirectory to hold all the resulting files
-
+if not os.path.isdir("./quotes"):
+    os.mkdir("./quotes")
 
 with open(filename) as file:
     for i, line in enumerate(file):
         if line != "\n":
-            all_matches = line.split(":::")
 
-            number_matches = len(all_matches)
+            try:
+                quote, author, *cats = line.split(":::")
 
-            if number_matches < 3:
+                cats = [cat.strip() for cat in cats]
+
+                for cat in cats:
+                    write_to_file(quote.strip(), author.strip(), cat)
+
+            except ValueError:
                 print("skipping line {}".format(i))
-
-            cats = all_matches[2:]
-            cats = [cat.strip() for cat in cats]
-
-            for cat in cats:
-                write_to_file(all_matches[0].strip(), all_matches[1].strip(), cat)
