@@ -140,9 +140,7 @@ learned rapidly that, to a far greater extent than we had dared to think, one
 could use data to deal both with the uncertainties of nature and with the
 uncertainties of data-based results. ::: John Tukey
 
-Far better an approximate answer to the right question, which is often vague,
-than an exact answer to the wrong question, which can always be made precise.
-::: John Tukey, 1962
+Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise. ::: John Tukey, 1962 ::: science ::: general
 
 I know of scarcely anything so apt to impress the imagination as the wonderful
 form of cosmic order expressed by the law of frequency of error [the Gaussian
@@ -208,8 +206,7 @@ equations, and not capable of any mechanical interpretation. This change in the
 conception of Reality is the most profound and the most fruitful that physics
 has experienced since the time of Newton. ::: Einstein
 
-Thought is only a flash between two long nights, but this flash is everything.
-::: Henri Poincare
+Thought is only a flash between two long nights, but this flash is everything. ::: Henri Poincare ::: general ::: problem_solving
 
 Species are merely those strongly marked races or local forms which, when in
 contact, do not intermix, and when inhabiting distinct areas are generally
@@ -320,430 +317,35 @@ It is, I think, particularly in times of acknowledged crisis that scientists
 have turned to philosophical analysis as a device for unlocking the riddles of
 their field. ::: Kuhn, 1970, p. 88
 
-If you’re thinking without writing, you only think you’re thinking. ::: Leslie
-Lamport
+If you’re thinking without writing, you only think you’re thinking. ::: Leslie Lamport ::: general ::: communication
 
-In a sexual population, each genotype is unique, never to recur. The life
-expectancy of a genotype is a single generation. In contrast, the population of
-genes endures. ::: James F. Crow
+The scientist explains the world by successive approximations. ::: Hubble ::: science
 
-"It is an old maxim of mine," said Holmes, "that when you have excluded the
-impossible, whatever remains, however improbable, must be the truth."
-"Perhaps," said Watson, skeptically, "You may have convinced me as to the
-motive, but you are yet to explain how it is done." ::: Sherlock Holmes, The
-Sign of Four
-
-If the central dogma is true, and if it is also true that nucleic acids are the
-only means whereby information is transmitted between generations, this has
-crucial implications for evolution. It would imply that all evolutionary
-novelty requires changes in nucleic acids, and that these changes – mutations –
-are essentially accidental and non-adaptive in nature. Changes elsewhere – in
-the egg cytoplasm, in materials transmitted through the placenta, in the
-mother's milk – might alter the development of the child, but, unless the
-changes were in nucleic acids, they would have no long-term evolutionary
-effects. ::: Maynard Smith
-
-Molecular clocks are like Santa Claus: everyone wants to believe in them, but
-no one really does. ::: Sanderson (2015), H. Brad Shaffer, pers. comm.
-
-It is generally accepted that the behaviour characteristic of a species is
-just as much the product of evolution as the morphology. ::: W.D. Hamilton
-
-Under the circumstances that a genus is either now or has recently been in a
-mutable state it would seem likely that natural selection would not yet have
-had time to weed out all the forms doomed to perish through lack of adaptation
-or insufficient vigor. ::: Leonas L. Burlingame, 1921
-
-No one ought to feel surprise at much remaining as yet unexplained in regard to
-the origin of species and varieties, if he make due allowance for our profound
-ignorance in regard to the mutual relations of the many beings which live
-around us. ::: Darwin (1859, p. 6)
-
-The scientist explains the world by successive approximations. ::: Hubble
-
-Variation is the hard reality . . . Means and medians are the abstractions. :::
-Stephen Jay Gould
-
-I would like to mention rather anecdotally that in the last three or four years
-the fog of quantitative variation, which I had assumed to be the result of
-segregation at a large number of loci, has gradually begun to clear as I have
-recognized individual segregations almost as personal friends. ::: Alan
-Robertson in "The Nature of Quantitative Genetic Variation"
-
-No aphorism is more frequently repeated in connection with field trials, than
-that we must ask Nature few questions, or, ideally, one question, at a time.
-The writer is convinced that this view is wholly mistaken. Nature, he suggests,
-will best respond to a logical and carefully thought out questionnaire ;
-indeed, if we ask her a single question, she will often refuse to answer until
-some other topic has been discussed. ::: R.A. Fisher in "The Arrangement of
-Field Experiments"
-
-I have had the growing suspicion that in revealing the great variety of genic
-forms segregating in populations we have given the right answer to the wrong
-question. That is, the question was never really, How much genetic variation is
-there…? but rather, What is the nature of genetic variation for fitness in a
-population? ::: RC Lewontin, 1974; p. x
-
+Variation is the hard reality . . . Means and medians are the abstractions. ::: Stephen Jay Gould ::: science
 
 For my team, I'll take the younger Darwin of the first edition, when the swing
 of his selectionist bat was true. ::: David Queller, "The Spaniels of St. Marx
 and the Panglossian Paradox: A Critique of a Rhetorical Programme", 1995
 
-As Samuel Butler so truly said: 'To me it seems that the "Origin of Variation",
-whatever it is, is the only true "Origin of Species".' :: W. Bateson, 1909 (in
-R.A. Fisher, 1930)
+A scientific man ought to have no wishes, no affections, - a mere heart of stone. ::: Charles Darwin ::: science
 
-Man in many respects may be compared with those animals which have long been
-domesticated. ::: Charles Darwin, 1871
+The most dangerous worldview is the worldview of those who have not viewed the world. ::: Alexander von Humboldt ::: general
 
-It is suggested that this loss of fitness is the price paid by a species for
-its capacity for further evolution. ::: Haldane, 1937, p. 349
+Why is thought being a secretion of brain, more wonderful than gravity a property of matter? It is our arrogance, our admiration of ourselves. ::: Charles Darwin, in this transmutation notebook. ::: science
 
-Yes, Dan [Hartl], [you can join my lab] provided you understand that population
-genetics is a recondite field that will never be of great interest except to a
-small group of specialists. ::: James Crow to Dan Hartl,
-http://www.nytimes.com/2012/01/11/science/james-f-crow-population-genetics-pioneer-dies-at-95.html
-
-Speaking of truly brilliant people fucking up, let's start with Galton. :::
-Michael Turelli
-
-Any misfortune 'that lies outside the sphere of choice' should be considered an
-opportunity to strengthen our resolve, not an excuse to weaken it. :::
-https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised
-
-This procedure is based on the principle of ergodicity, which says that
-averaging a random variable of a stationary stochastic process over time
-leads to the same result as averaging this quantity at any given time point
-over different realizations of the process. ::: Kim and Stephan, 2000; nice
-definition of ergodicity.
-
-
-A scientific man ought to have no wishes, no affections, - a mere heart of stone. ::: Charles Darwin
-
-The most dangerous worldview is the worldview of those who have not viewed the
-world. ::: Alexander von Humboldt
-
-The time in which men believed that science could be advanced by the mere
-collection of facts has long passed away: we know that it is not necessary to
-accumulate a vast number of miscellaneous facts, or to make as it were a
-catalogue of them; but we know that it is necessary to establish facts which,
-when grouped together in the light of a theory, will enable us to acquire a
-certain degree of insight into some natural phenomenon. ::: Weismann, 1889
-
-No! Biology is not obliged to wait until Physics and Chemistry are completely
-finished; nor have we to wait for the investigation of the phenomena of
-heredity until the physiology of the cell is complete. Instead of comparing the
-progress of science to a building, I should prefer to compare it to a mining
-operation, undertaken in order to open up a freely branching lode. Such a lode
-must not be attacked from one point alone, but from many points simultaneously.
-From some of these we should quickly reach the deep‐seated parts of the lode,
-from others we should only reach its superficial parts; but from every point
-some knowledge of the complex tout ensemtle of the lode would be gained. And
-the more numerous the points of attack, the more complete would be the
-knowledge acquired, for valuable insight will be obtained in every place where
-the work is carried on with discretion and perseverance.  ::: Weismann, 1889
-
-To go on investigating without the guidance of theories, is like attempting to
-walk in a thick mist without a track and without a compass.  ::: Weismann, 1889
-
-Why is thought being a secretion of brain, more wonderful than gravity a
-property of matter? It is our arrogance, our admiration of ourselves. :::
-Charles Darwin, in this transmutation notebook.
-
-And you say to me, friends, there is no disputing tastes and tasting? But all of life is a dispute over taste and tasting! ::: Nietzsche "Thus Spoke Zarathustra" (?). As quoted in Vanderbilt 2016 p 3.
+And you say to me, friends, there is no disputing tastes and tasting? But all of life is a dispute over taste and tasting! ::: Nietzsche "Thus Spoke Zarathustra" (?). As quoted in Vanderbilt 2016 p 3. ::: preferences
 
 
 # from Kindle:
 
-Leaves of Grass (Walt Whitman)
-- Your Highlight on Location 448-448 | Added on Wednesday, December 2, 2015 6:01:20 PM
-
-Of Life immense in passion, pulse, and power,
-==========
-﻿Leaves of Grass (Walt Whitman)
-- Your Bookmark on Location 450 | Added on Wednesday, December 2, 2015 6:08:19 PM
-
-
-==========
-Scaling (Nautilus)
-- Your Highlight on Location 1145-1147 | Added on Sunday, December 6, 2015 7:43:55 AM
-
-In 1999 a team at the University of Vienna led by Anton Zeilinger and Markus Arndt marshaled 60-atom carbon molecules called fullerenes (C60) into a beam, passed it through a grating of slits spaced 100 nanometers apart and made from the ceramic silicon nitride, and detected an interference pattern on the far side.
-==========
-Scaling (Nautilus)
-- Your Highlight on Location 1384-1384 | Added on Sunday, December 6, 2015 7:59:32 AM
-
-Albert Bartlett
-==========
-Scaling (Nautilus)
-- Your Highlight on Location 1385-1386 | Added on Sunday, December 6, 2015 7:59:39 AM
-
-“The greatest shortcoming of the human race,” he said, “is our inability to understand the exponential function”—
-==========
-Scaling (Nautilus)
-- Your Bookmark on Location 1485 | Added on Sunday, December 6, 2015 8:09:54 AM
-
-
-==========
-
-      Life on the Mississippi, Complete, by Mark Twain
-      
-- Your Highlight on Location 187-190 | Added on Sunday, December 6, 2015 12:42:59 PM
-
-To say that De Soto, the first white man who ever saw the Mississippi River, saw it in 1542, is a remark which states a fact without interpreting it: it is something like giving the dimensions of a sunset by astronomical measurements, and cataloguing the colors by their scientific names;—as a result, you get the bald fact of the sunset, but you don't see the sunset. It would have been better to paint a picture
-==========
-Scaling (Nautilus)
-- Your Highlight on Location 2425-2427 | Added on Sunday, December 6, 2015 12:50:19 PM
-
-approach. A meta-analysis by Scott Freeman and his colleagues in the Proceedings of the National Academy of Sciences revealed that “active” learning produces such an improvement in science, engineering, and math classrooms that it is almost pedagogical malpractice not to use it.
-==========
-Scaling (Nautilus)
-- Your Highlight on Location 2617-2618 | Added on Sunday, December 6, 2015 1:15:57 PM
-
-2. Harte, J., Smith, A.B., & Storch, D. Biodiversity scales from plots to biomes with a universal species-area curve. Ecology Letters12, 789-797 (2009).
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 115-116 | Added on Saturday, December 12, 2015 9:37:12 AM
-
-The truth is the light and light is the truth.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 247-250 | Added on Saturday, December 12, 2015 9:55:03 AM
-
-On his deathbed he called my father to him and said, "Son, after I'm gone I want you to keep up the good fight. I never told you, but our life is a war and I have been a traitor all my born days, a spy in the enemy's country ever since I give up my gun back in the Reconstruction. Live with your head in the lion's mouth. I want you to overcome 'em with yeses, undermine 'em with grins, agree 'em to death and destruction, let 'em swoller you till they vomit or bust wide open." They
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 255-256 | Added on Saturday, December 12, 2015 9:57:15 AM
-
-he had spoken of his meekness as a dangerous activity.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 381-382 | Added on Saturday, December 12, 2015 10:17:53 AM
-
-And I lay there, hazily watching a dark red spot of my own blood shaping itself into a butterfly, glistening and soaking into the soiled gray world of the canvas.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 509-509 | Added on Saturday, December 12, 2015 1:44:43 PM
-
-shoes shined, minds laced up,
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 860-863 | Added on Sunday, December 13, 2015 9:16:28 AM
-
-So like that fellow, I stayed, I had to fight it on out to the end. He mighta died, but I suspects now that he got a heapa satisfaction before he went. I know there ain't nothin' like what I went through, I caint tell how it was. It's like when a real drinkin' man gits drunk, or when a real sanctified religious woman gits so worked up she jumps outta her clothes, or when a real gamblin' man keeps on gamblin' when he's losin'. You got holt to it and you caint let go even though you want to."
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 943-944 | Added on Sunday, December 13, 2015 9:18:03 AM
-
-I makes up my mind that I ain't nobody but myself and ain't nothin' I can do but let whatever is gonna happen, happen
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 1326-1327 | Added on Sunday, December 13, 2015 10:00:46 AM
-
-Behold! a walking zombie! Already he's learned to repress not only his emotions but his humanity. He's invisible, a walking personification of the Negative, the most perfect achievement of your dreams, sir! The mechanical man!"
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 1555-1560 | Added on Sunday, December 13, 2015 12:57:02 PM
-
-And I remember too, how we confronted those others, those who had set me here in this Eden, whom we knew though we didn't know, who were unfamiliar in their familiarity, who trailed their words to us through blood and violence and ridicule and condescension with drawling smiles, and who exhorted and threatened, intimidated with innocent words as they described to us the limitations of our lives and the vast boldness of our aspirations, the staggering folly of our impatience to rise even higher; who, as they talked, aroused furtive visions within me of blood-froth sparkling their chins like their familiar tobacco juice, and upon their lips the curdled milk of a million black slave mammies' withered dugs, a treacherous and fluid knowledge of our being, imbibed at our source and now regurgitated foul upon us.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 1566-1567 | Added on Sunday, December 13, 2015 12:58:36 PM
-
-For their most innocent words were acts of violence to which we of the campus were hypersensitive though we endured them not
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 1577-1578 | Added on Sunday, December 13, 2015 12:59:43 PM
-
-Ha! with wrecks of unachievable ambitions and stillborn revolts, sweeping their ears, Ha!
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 1579-1581 | Added on Sunday, December 13, 2015 1:07:30 PM
-
-Ha! a-spraying the ceiling and a-drumming the dark-stained after rafter, that seasoned crossarm of torturous timber mellowed in the kiln of a thousand voices; playing Ha! as upon a xylophone; words marching like the student band, up the campus and down again, blaring triumphant sounds empty of triumphs.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 1966-1970 | Added on Sunday, December 13, 2015 5:11:14 PM
-
-True they support it, but I control it. I's big and black and I say 'Yes, suh' as loudly as any burr-head when it's convenient, but I'm still the king down here. I don't care how much it appears otherwise. Power doesn't have to show off. Power is confident, self-assuring, self-starting and self-stopping, self-warming and self-justifying. When you have it, you know it. Let the Negroes snicker and the crackers laugh! Those are the facts, son.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 1987-1989 | Added on Sunday, December 13, 2015 10:02:23 PM
-
-"I don't even insist that it was worth it, but now I'm here and I mean to stay --after you win the game, you take the prize and you keep it, protect it; there's nothing else to do." He shrugged. "A man gets old winning his place, son.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 2240-2241 | Added on Monday, December 14, 2015 2:00:18 PM
-
-But here in the North I would slough off my southern ways of speech. Indeed, I would have one way of speaking in the North and another in the South. Give them what they wanted down South, that was the way.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 2297-2301 | Added on Monday, December 14, 2015 2:26:06 PM
-
-Some were friendly and some were not, and you tried not to offend either. But here they all seemed impersonal; and yet when most impersonal they startled me by being polite, by begging my pardon after brushing against me in a crowd. Still I felt that even when they were polite they hardly saw me, that they would have begged the pardon of Jack the Bear, never glancing his way if the bear happened to be walking along minding his business. It was confusing. I did not know if it was desirable or undesirable . . .
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 2380-2382 | Added on Monday, December 14, 2015 3:15:47 PM
-
-"Yes, that's right," I said, thinking of my letters, "but that's a mistake. You have to stick to the plan." He looked at me, suddenly grave. "You kinda young, daddy-o," he said. I did not answer.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 2512-2513 | Added on Monday, December 14, 2015 3:28:30 PM
-
-"The only trouble with ambition is that it sometimes blinds one to realities . . .
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 3318-3319 | Added on Tuesday, December 15, 2015 3:36:49 PM
-
-I could no more escape than I could think of my identity. Perhaps, I thought, the two things are involved with each other. When I discover who I am, I'll be free.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 3407-3408 | Added on Tuesday, December 15, 2015 3:44:43 PM
-
-I was no longer afraid. Not of important men, not of trustees and such; for knowing now that there was nothing which I could expect from them, there was no reason to be afraid.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 3560-3562 | Added on Tuesday, December 15, 2015 4:05:46 PM
-
-Then far down at the corner I saw an old man warming his hands against the sides of an odd-looking wagon, from which a stovepipe reeled off a thin spiral of smoke that drifted the odor of baking yams slowly to me, bringing a stab of swift nostalgia.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 3619-3620 | Added on Tuesday, December 15, 2015 4:18:47 PM
-
-there would be some things that would cause quite a bit of trouble, simply because I had never formed a personal attitude toward so much. I had accepted the accepted attitudes and it had made life seem simple
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 3781-3784 | Added on Tuesday, December 15, 2015 4:34:57 PM
-
-And remember it when you look up there in the doorway at that law standing there with his forty-five. Look at him, standing with his blue steel pistol and his blue serge suit. Look at him! You don't see just one man dressed in one blue serge suit, or one forty-five, you see ten for every one of us, ten guns and ten warm suits and ten fat bellies and ten million laws. Laws, that's what we call them down South! Laws! And we're wise, and law-abiding.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 3977-3978 | Added on Tuesday, December 15, 2015 5:01:59 PM
-
-You're not like them. Perhaps you were, but you're not any longer. Otherwise you'd never have made that speech
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 4011-4012 | Added on Tuesday, December 15, 2015 5:07:27 PM
-
-And sometimes the difference between individual and organized indignation is the difference between criminal and political action,"
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 4175-4177 | Added on Tuesday, December 15, 2015 5:26:06 PM
-
-"the trouble is that there is little the dead can do; otherwise they wouldn't be the dead. No! But on the other hand, it would be a great mistake to assume that the dead are absolutely powerless. They are powerless only to give the full answer to the new questions posed for the living by history. But they try! Whenever they hear the imperious cries of the people in a crisis, the dead respond.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 4291-4293 | Added on Tuesday, December 15, 2015 5:35:43 PM
-
-But now after the mutual laughter something disturbed me: Shouldn't there be some way for us to be asked to sing? Shouldn't the short man have the right to make a mistake without his motives being considered consciously or unconsciously malicious?
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 4559-4561 | Added on Tuesday, December 15, 2015 6:15:23 PM
-
-This was a new phase, I realized, a new beginning, and I would have to take that part of myself that looked on with remote eyes and keep it always at the distance of the campus, the hospital machine, the battle royal --all now far behind.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 4586-4587 | Added on Tuesday, December 15, 2015 6:19:11 PM
-
-Three white men and three black horses.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 4875-4876 | Added on Wednesday, December 16, 2015 5:57:32 PM
-
-"Master it," Brother Jack said, "but don't overdo it. Don't let it master you. There is nothing to put the people to sleep like dry ideology.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 4876-4877 | Added on Wednesday, December 16, 2015 5:57:58 PM
-
-The ideal is to strike a medium between ideology and inspiration. Say what the people want to hear, but say it in such a way that they'll do what we wish."
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 4984-4985 | Added on Wednesday, December 16, 2015 6:08:04 PM
-
-Tod Clifton, the youth leader, looked somehow like a hipster, a zoot suiter, a sharpie
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 5058-5058 | Added on Wednesday, December 16, 2015 6:17:53 PM
-
-Their money bleed black blood,
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 5077-5081 | Added on Wednesday, December 16, 2015 6:21:05 PM
-
-"Women? Godahm, mahn! Is that equality? Is that the black mahn's freedom? A pat on the back and a piece of cunt without no passion? Maggots! They buy you that blahsted cheap, mahn? What they do to my people! Where is your brains? These women dregs, mahn! They bilge water! You know the high-class white mahn hates the black mahn, that's simple. So now he use the dregs and wahnt you black young men to do his dirty work. They betray you and you betray the black people. They tricking you, mahn. Let them fight among themselves. Let 'em kill off one another. We organize --organization is good --but we organize black.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 5250-5251 | Added on Wednesday, December 16, 2015 10:02:59 PM
-
-And what do you care when some folks start knocking you? It's a sign you getting some place."
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 5678-5679 | Added on Thursday, December 17, 2015 6:31:20 PM
-
-and I was lost, for the conflict between the ideological and the biological,
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 5702-5702 | Added on Thursday, December 17, 2015 6:35:28 PM
-
-Why, goddamit, why did they insist upon confusing the class struggle with the ass struggle, debasing both us and them --all human motives?
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 5918-5919 | Added on Thursday, December 17, 2015 7:21:38 PM
-
-It was as though he had chosen --how had he put it the night he fought with Ras? --to fall outside of history.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 5994-5995 | Added on Thursday, December 17, 2015 10:01:43 PM
-
-These fellows whose bodies seemed --what had one of my teachers said of me? -"You're like one of these African sculptures, distorted in the interest of a design." Well, what design and whose?
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 6222-6222 | Added on Saturday, December 19, 2015 8:03:00 AM
-
-Cause of death (be specific): resisting reality in the form of a .38 caliber revolver in the hands of the arresting officer
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 6244-6245 | Added on Saturday, December 19, 2015 8:05:39 AM
-
-And as I took one last look I saw not a crowd but the set faces of individual men and women.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 6787-6789 | Added on Saturday, December 19, 2015 9:20:51 AM
-
-I caught a brief glimpse of the possibilities posed by Rinehart's multiple personalities and turned away. It was too vast and confusing to contemplate. Then I looked at the polished lenses of the glasses and laughed. I had been trying simply to turn them into a disguise but they had become a political instrument instead; for if Rinehart could use them in his work, no doubt I could use them in mine.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 6901-6905 | Added on Saturday, December 19, 2015 10:34:57 AM
-
-Well, I was and yet I was invisible, that was the fundamental contradiction. I was and yet I was unseen. It was frightening and as I sat there I sensed another frightening world of possibilities. For now I saw that I could agree with Jack without agreeing. And I could tell Harlem to have hope when there was no hope. Perhaps I could tell them to hope until I found the basis of something real, some firm ground for action that would lead them onto the plane of history. But until then I would have to move them without myself being moved . . . I'd have to do a Rinehart.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 7796-7799 | Added on Saturday, December 19, 2015 11:08:04 PM
-
-I was never more hated than when I tried to be honest. Or when, even as just now I've tried to articulate exactly what I felt to be the truth. No one was satisfied --not even I. On the other hand, I've never been more loved and appreciated than when I tried to "justify" and affirm someone's mistaken beliefs; or when I've tried to give my friends the incorrect, absurd answers they wished to hear.
-==========
-Invisible Man (Ralph Ellison)
-- Your Highlight on Location 7853-7853 | Added on Sunday, December 20, 2015 8:11:55 AM
-
-Let man keep his many parts and you'll have no tyrant states.
-==========
-The Autobiography of Malcolm X (Malcolm X)
-- Your Highlight on Location 78-80 | Added on Sunday, December 20, 2015 4:01:45 PM
+Let man keep his many parts and you'll have no tyrant states ::: Malcolm X, The Autobiography of Malcolm X ::: general
 
 In the United States, it is our weakness to confuse the numerical strength of an organization and the publicity attached to leaders with the germinating forces that sow the seeds of social upheaval in our community.
 ==========
 The Autobiography of Malcolm X (Malcolm X)
 - Your Highlight on Location 101-104 | Added on Sunday, December 20, 2015 4:06:14 PM
 
-He repeatedly cautioned me to beware of Negro affirmations of good will toward the white man. He said that the Negro had been trained to dissemble and conceal his real thoughts, as a matter of survival. He argued that the Negro only tells the white man what he believes the white man wishes to hear, and that the art of dissembling reached a point where even Negroes cannot truthfully say they understand what their fellow Negroes believe.
-==========
-The Autobiography of Malcolm X (Malcolm X)
-- Your Highlight on page 11 | Location 288-289 | Added on Sunday, December 20, 2015 4:40:42 PM
-
-So early in life, I had learned that if you want something, you had better make some noise.
-==========
-The Autobiography of Malcolm X (Malcolm X)
-- Your Highlight on page 25 | Location 508-511 | Added on Sunday, December 20, 2015 5:11:03 PM
+So early in life, I had learned that if you want something, you had better make some noise ::: Malcolm X, The Autobiography of Malcolm X ::: general
 
 They outdid themselves exclaiming what a sure shot I was. I was about twelve, then. All I had done was to improve on their strategy, and it was the beginning of a very important lesson in life—that anytime you find someone more successful than you are, especially when you’re both engaged in the same business—you know they’re doing something that you aren’t.
 ==========
