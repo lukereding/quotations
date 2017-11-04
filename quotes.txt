@@ -3,6 +3,8 @@
 
 # below I denote the category of the quote with three colons in a row
 
+A genius is the one most like himself. ::: Thelonious Monk ::: general
+
 The way to love anything is to realize that it might be lost. ::: G. K. Chesterton ::: preferences ::: general
 
 Where we all think alike, no one thinks very much. ::: Walter Lippmann ::: general
