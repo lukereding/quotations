@@ -3,6 +3,7 @@ from PIL import ImageFont, Image, ImageOps, ImageDraw
 import os
 import re
 from random import randint
+import textwrap
 
 
 font = ImageFont.truetype("/Users/lreding/Library/Fonts/NHaasGroteskTXPro-65Md.ttf", 90)
@@ -18,24 +19,22 @@ counter = 0
 with open(filename, 'r') as file:
     for i, line in enumerate(file):
         if counter < 30:
-            if line != "\n":
+            if line != "\n" and line.find(":::") != -1:
                 try:
                     # generate random col
                     col = randint(0, len(cols)-1)
 
                     quote, name, *_ = line.split(":::")
 
-                    if len(quote) < 100:
+                    quote_wrapped = textwrap.fill(quote.capitalize(), 50)
+                    quote_with_author = quote_wrapped + "\n\n" + name.strip()
 
-                        img = Image.new("RGBA", (width, height), cols[col])
-                        draw = ImageDraw.Draw(img)
+                    img = Image.new("RGBA", (width, height), cols[col])
+                    draw = ImageDraw.Draw(img)
 
-                        # wrap long quotes
-                        x = '\n'.join(line.strip() for line in re.findall(r'.{1,40}(?:\s+|$)', quote))
-                        x += "\n- {}".format(name.split('.')[0])
-                        draw.text((10, 1000), x.capitalize(), (255,255,255), font = font)
-                        draw = ImageDraw.Draw(img)
-                        img.save("{}.png".format(x[:10]))
-                        counter += 1
+                    draw.text((10, 1000), quote_with_author, (255,255,255), font = font)
+                    draw = ImageDraw.Draw(img)
+                    img.save("{}.png".format(quote_wrapped[:10].replace(' ', '_')))
+                    counter += 1
                 except:
                     print("problem with line {}".format(i))
