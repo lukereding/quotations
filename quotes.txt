@@ -3,7 +3,9 @@
 
 # below I denote the category of the quote with three colons in a row
 
-It is only by selection, by elimination, and by emphasis that we get at the real meaning of things. ::: Georgia O'Keeffe ::: creativity ::: general
+It is only by selection, by elimination, and by emphasis that we get at the real meaning of things. ::: Georgia O'Keeffe ::: creativity ::: general ::: design
+
+Doubt is not a pleasant condition, but certainty is an absurd one. ::: Voltaire ::: science ::: general
 
 Hell is other people ::: Sartre ::: general
 
