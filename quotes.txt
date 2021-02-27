@@ -1,5 +1,13 @@
 # below I denote the category of the quote with three colons in a row
 
+Art doesn't have to solve problems, it just has to formulate them correctly. ::: Tolstoy ::: creativity ::: art
+
+Computers are useless. They can only give you answers. ::: Picasso ::: creativity ::: art
+
+No matter how complex and polished the individual operations are, it is often the quality of the glue that most directly determines the power of the system. ::: Hal Abelson ::: programming
+
+There is an obvious and sometimes fearful discrepancy between life as it is and life as it should and could be. But most of us, if we can re-install our confidence in life, try to find ways to bridge this gap. Artists are among those that have a passionate commitment to the completeness of life. Today one doesn't need to have too much imagination, or extra sensitivity to see how the urban life we created for ourselves is not living up to its potential. ::: Gyorgy Kepes ::: art ::: forward-thinking
+
 The only way to communicate is to understand what it is like not to understand ::: Richard Saul Wurman ::: communication
 
 The mark of a free man is that ever-gnawing inner uncertainty as to whether or not he is right. ::: Learned Hand
