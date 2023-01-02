@@ -1,5 +1,9 @@
 # below I denote the category of the quote with three colons in a row
 
+Strategy is the art of creating power ::: lawrence freedman ::: strategy
+
+The first question of design is not how it should look, but if it should even be ::: Charles Eames ::: design
+
 The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all process depends on the unreasonable man. ::: George Bernard Shaw ::: change
 
 The more constraints one imposes, the more one frees one's self of the chains that shackle the spirit. ::: Igor Stravinsky ::: art ::: creativity
